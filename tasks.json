@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "fb35",
+      "name": "Préparation de données",
+      "description": "Préparer les données pour l'analyse",
+      "priority": "Basse",
+      "deadline": null,
+      "completed": false
+    },
+    {
+      "id": "f681",
+      "name": "Revue du code du module de paiement",
+      "description": "tache critique ",
+      "priority": "Haute",
+      "deadline": "2025-07-09T12:56:42.458Z",
+      "completed": true
+    },
+    {
+      "id": "edfe",
+      "name": "Préparer le rapport mensuel du projet Alpha",
+      "description": "Compiler les données des livrables, vérifier l'avancement des modules, rédiger le rapport et l'envoyer au chef de projet pour validation.",
+      "priority": "Moyenne",
+      "deadline": "2025-08-08T23:00:00.000Z",
+      "completed": true
+    },
+    {
+      "id": "1512",
+      "name": "Effectuer la sauvegarde des données",
+      "description": "Sauvegarde complète du serveur principal sur le cloud et vérification de l'intégrité des fichiers.",
+      "priority": "Basse",
+      "deadline": "2025-07-09T13:12:33.512Z",
+      "completed": false
+    },
+    {
+      "id": "ac3e",
+      "name": "Revue du code du module de paiement",
+      "description": "Analyser le code pour détecter les anomalies et proposer des améliorations de performance.\n\n",
+      "priority": "Haute",
+      "deadline": "2025-11-08T23:00:00.000Z",
+      "completed": false
+    },
+    {
+      "id": "ccba",
+      "name": "Réunion avec l’équipe marketing",
+      "description": "Discuter des prochaines campagnes publicitaires et de l'intégration des données utilisateurs.",
+      "priority": "Basse",
+      "deadline": "2025-07-10T23:00:00.000Z",
+      "completed": true
+    },
+    {
+      "id": "05a3",
+      "name": "Tester le formulaire d’inscription",
+      "description": "Effectuer des tests fonctionnels et UI sur le formulaire, notamment en cas d’erreur de validation.",
+      "priority": "Moyenne",
+      "deadline": "2025-07-12T23:00:00.000Z",
+      "completed": false
+    }
+  ]
+}
